@@ -46,12 +46,4 @@ If you reference this paper in your work, you may cite it as:
   year    = {2025},
 }
 ```
-
-
-
-
-
-
-
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
